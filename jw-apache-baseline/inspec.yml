@@ -11,3 +11,5 @@ supports:
 depends:
   - name: apache-baseline
     compliance: admin/apache-baseline
+  - name: cis-centos7-level1-server
+    compliance: admin/cis-centos7-level1-server

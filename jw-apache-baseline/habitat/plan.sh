@@ -1,5 +1,5 @@
 pkg_name=apache-baseline-effortless
-pkg_version=1.0.0
+pkg_version=1.0.1
 pkg_origin=chef
 pkg_scaffolding="chef/scaffolding-chef-inspec"
 scaffold_automate_server_url='https://192.168.42.106'                                   # Example: https://foo.bar.com
